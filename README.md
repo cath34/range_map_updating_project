@@ -1,2 +1,2 @@
-# range_map_updating_project
+# Range Map Updating Project
 Code repository for the range map updating project
